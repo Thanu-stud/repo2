@@ -1,0 +1,2 @@
+echo "Hi"
+This is going on 
